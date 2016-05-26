@@ -1,0 +1,36 @@
+Nathaniel Compton
+info@nathanielcompton.com  •  http://nathanielcompton.com  •  850-284-1116  •  Tallahassee, FL
+
+Employment
+March 2015 - Present • Software Engineer, Florida DEO
+	-	API and Database developer for Florida’s Department of Economic Opportunity, working to recognize, categorize, and prevent fraudulent claims of unemployment assistance benefits
+	-	Create REST “microservices” using Go and Python to integrate third-party applications
+	-	Implemented Cassandra CQL prepared statements,  Solr queries, database migration scripts
+	-	Collaborated on bug fixes and refactoring of legacy code
+	-	Overhauled API test suite from 20% to 95%+ codebase coverage
+	-	Ensured all code passed inspection via git version control and automated testing
+	-	Daily interaction with business analysts and project mangers providing technical advice
+	-	Wrote tutorials and documentation for new hires, and helped in the on-boarding of employees through API and database training
+	-	Allotted time daily for self-improvement through coding/programming training, one-on-one mentoring, and Q&A sessions with the senior team members
+	-	Deployed code across multiple operating systems (Linux, OS X, Windows)
+
+January 2009 - Present • Owner, Compton Tech Solutions
+	-	Contractor services for companies looking to modernize their workplace technology
+	-	Government consulting for tech-related policy on local and state level
+	-	Increased sales at multiple firms through an overhaul of online presence and user experience
+	-	Advised and implemented visual rebranding (logo, print, and web design)
+	-	Coordinated company-wide hardware purchases and associated employee training
+
+Education
+Intermediate/Advanced Proficiency:
+	Python, Go, Flask, Django, CQL/SQL, Cassandra, Solr
+Working Proficiency:
+	Javascript, HTML/CSS, SQLite, PostgreSQL
+Related Professional Knowledge:
+	Git, Apache, Nginx, Adobe Creative Suite
+Ongoing Training and Awards:
+	Apache Cassandra Developer certification (est. completion, Summer 2016)
+	Google Developer Training program
+	National Champion, American Forensics Association (Speech & Debate)
+	National Gold Medalist - Phi Rho Pi, Impromptu and Extemporaneous Speaking
+(Programming portfolio via: www.github.com/nathanielcompton)
