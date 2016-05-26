@@ -1,8 +1,8 @@
 Nathaniel Compton
-info@nathanielcompton.com  •  http://nathanielcompton.com  •  850-284-1116  •  Tallahassee, FL
+info@nathanielcompton.com  -  http://nathanielcompton.com  -  850-284-1116  -  Tallahassee, FL
 
 Employment
-March 2015 - Present • Software Engineer, Florida DEO
+March 2015 - Present - Software Engineer, Florida DEO
 	-	API and Database developer for Florida’s Department of Economic Opportunity, working to recognize, categorize, and prevent fraudulent claims of unemployment assistance benefits
 	-	Create REST “microservices” using Go and Python to integrate third-party applications
 	-	Implemented Cassandra CQL prepared statements,  Solr queries, database migration scripts
@@ -14,7 +14,7 @@ March 2015 - Present • Software Engineer, Florida DEO
 	-	Allotted time daily for self-improvement through coding/programming training, one-on-one mentoring, and Q&A sessions with the senior team members
 	-	Deployed code across multiple operating systems (Linux, OS X, Windows)
 
-January 2009 - Present • Owner, Compton Tech Solutions
+January 2009 - Present - Owner, Compton Tech Solutions
 	-	Contractor services for companies looking to modernize their workplace technology
 	-	Government consulting for tech-related policy on local and state level
 	-	Increased sales at multiple firms through an overhaul of online presence and user experience
