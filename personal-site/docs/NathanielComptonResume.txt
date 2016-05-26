@@ -3,8 +3,8 @@ info@nathanielcompton.com  -  http://nathanielcompton.com  -  850-284-1116  -  T
 
 Employment
 March 2015 - Present - Software Engineer, Florida DEO
-	-	API and Database developer for Florida’s Department of Economic Opportunity, working to recognize, categorize, and prevent fraudulent claims of unemployment assistance benefits
-	-	Create REST “microservices” using Go and Python to integrate third-party applications
+	-	API and Database developer for Florida Department of Economic Opportunity, working to recognize, categorize, and prevent fraudulent claims of unemployment assistance benefits
+	-	Create REST microservices using Go and Python to integrate third-party applications
 	-	Implemented Cassandra CQL prepared statements,  Solr queries, database migration scripts
 	-	Collaborated on bug fixes and refactoring of legacy code
 	-	Overhauled API test suite from 20% to 95%+ codebase coverage
